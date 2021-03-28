@@ -9,4 +9,6 @@ este es mi primer blog el cual pueden encontrar en mi repositorio de [github](ht
 
 * de forma colaborativa
 
+*esto esta mal escrito
+
 **Este repositorio solo es una prueba personal**
