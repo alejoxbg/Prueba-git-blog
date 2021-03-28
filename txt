@@ -2,5 +2,11 @@ Esta es la historia de freddy
 
 mañana es 28 de marzo
 
+<<<<<<< HEAD
 master 2
 Exp1
+=======
+Exp1
+
+exp 2
+>>>>>>>  experimento 2
