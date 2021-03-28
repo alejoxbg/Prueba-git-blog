@@ -5,7 +5,7 @@ este es mi primer blog el cual pueden encontrar en mi repositorio de [github](ht
 >Hacer esta prueba me ha ayudado mucho a:
 > - poder trabajar mejor con git y github
 
-##Aprender a trabajar 
+## Aprender a trabajar 
 
 * de forma colaborativa
 
